@@ -1,0 +1,46 @@
+body{
+    
+    background-image: url("utils/mandala.jpeg")
+}
+a:hover, a:active {
+    background-color: lightcoral;
+    display: inline;
+    padding: 14px 25px;
+    text-align: center;
+    color: lightcyan;
+    text-decoration: lightpink;
+    border-radius: 15px;
+}
+h1 {
+    color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lightcoral;
+    border-radius: 15px;
+}
+h5 {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}      
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 18px;
+}
+.sobremim {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
+    background-color: darkcyan;
+    border: 10px solid darkslategray;
+    border-radius: 15px;
+}
+h3 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
