@@ -1,0 +1,38 @@
+body{    
+    background-image: url("utils/mandala.jpeg");
+}
+a:hover {
+    background-color: lightcoral;
+    display: inline;
+    padding: 14px 25px;
+    text-align: center;
+    color: lightcyan;
+    text-decoration: lightpink;
+}
+h1 {
+    color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lightcoral;
+    border-radius: 15px;
+}
+h3 {
+    text-align: justify;
+}
+.experiencias {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    background-color: darkcyan;
+    border: 10px solid darkslategray;
+    font-size: 20px;
+    text-align: justify;  
+    border-radius: 15px;
+}
+
+
+
+
+
+ 
